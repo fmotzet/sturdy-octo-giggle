@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>screeninstyle</id>
+    <version>1.1.10</version>
+    <title>ScreenInStyle (Install)</title>
+    <authors>Eizo</authors>
+    <owners>fmotzet</owners>
+    <!-- projectUrl is required for the community feed -->
+    <projectUrl>https://_Software_Location_REMOVE_OR_FILL_OUT_</projectUrl>
+    <tags>screeninstyle Eizo Multitasking-software Dockingstations Monitor</tags>
+    <summary>An Application to help Mith Multitasking on one Monitor, on multiple Monitors, and Dockingstations. Also assists in finding the mouse cursor.</summary>
+    <description>An Application to help Mith Multitasking on one Monitor, on multiple Monitors, and Dockingstations. Also assists in finding the mouse cursor. </description>
+    <releaseNotes> [Ver.1.1.10 Changes] | Windows 11 is supported | Mouse Pointer Utility is added </releaseNotes>
+    <!--<dependencies>
+      <dependency id="" version="Windows 10 (32-bit, 64-bit), Windows 8.1 (32-bit, 64-bit), Windows 7 SP1 (32-bit, 64-bit) " />
+      </dependencies>-->
+    <packageSourceUrl>https://github.com/stumbaumr/nugetpackages/</packageSourceUrl>
+    <docsUrl>https://support.d-imaging.sony.co.jp/app/webcam/en/</docsUrl> 
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
