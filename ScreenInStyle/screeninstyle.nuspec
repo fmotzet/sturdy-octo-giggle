@@ -3,16 +3,15 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>screeninstyle</id>
-    <version>1.1.10</version>
+    <version>1.1.13</version>
     <title>ScreenInStyle (Install)</title>
     <authors>Eizo</authors>
     <owners>fmotzet</owners>
     <!-- projectUrl is required for the community feed -->
-    <projectUrl>https://www.eizo.de/zubehoer/software/screen-instyle/</projectUrl>
+    <projectUrl>https://www.eizoglobal.com/products/flexscan/screen-instyle/</projectUrl>
     <tags>screeninstyle Eizo Multitasking-software Dockingstations Monitor</tags>
     <summary>An Application to help Mith Multitasking on one Monitor, on multiple Monitors, and Dockingstations. Also assists in finding the mouse cursor.</summary>
     <description>An Application to help Mith Multitasking on one Monitor, on multiple Monitors, and Dockingstations. Also assists in finding the mouse cursor. </description>
-    <releaseNotes> [Ver.1.1.10 Changes] | Windows 11 is supported | Mouse Pointer Utility is added </releaseNotes>
     <iconUrl>https://github.com/fmotzet/sturdy-octo-giggle/blob/main/Screen%20InStyle%20Eizo.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="Windows 10 (32-bit, 64-bit), Windows 8.1 (32-bit, 64-bit), Windows 7 SP1 (32-bit, 64-bit) " />
